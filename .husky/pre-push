@@ -1,1 +1,3 @@
-git pull
+#!/usr/bin/env sh
+git pull --no-rebase --no-edit
+
