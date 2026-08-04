@@ -239,6 +239,8 @@ https://chatgpt.com/s/t_6a673cea8e1481919ff6f4a21e6716a7
 
 https://chatgpt.com/s/t_6a673d9a02208191857abee0fd95894f
 
+https://chatgpt.com/s/t_6a67569c8cc081918bd31aaa1b6d7bcb
+
 
 # Logging
 
